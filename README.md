@@ -1,5 +1,4 @@
-<img width="400"  alt="iPad_reservation_agent" src="https://github.com/slechtajakub/iPad_reservation_Claude_skill/blob/main/ipad_reservation.png?raw=true
-" />
+<img width="400"  alt="iPad_reservation_agent" src="https://github.com/slechtajakub/iPad_reservation_Claude_skill/blob/main/ipad_reservation.png?raw=true" />
 
 
 # iPad Reservation Skill
