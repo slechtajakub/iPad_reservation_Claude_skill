@@ -1,4 +1,6 @@
-<img width="400"  alt="iPad_reservation_agent" src="https://github.com/slechtajakub/iPad_reservation_Claude_skill/blob/main/example-ipad-reservation.png?raw=true" />
+<img width="400"  alt="iPad_reservation_agent" src="https://github.com/slechtajakub/iPad_reservation_Claude_skill/blob/main/ipad_reservation.png?raw=true
+" />
+
 
 # iPad Reservation Skill
 
@@ -68,6 +70,8 @@ Skill pracuje s:
 - Vždy se používá školní účet 
 - Název rezervace jasně označuje čísla iPadů (např. `"301-318 Jakub"`)
 - Ostatní učitelé vidí, která zařízení jsou rezervována
+
+<img width="400"  alt="iPad_reservation_agent" src="https://github.com/slechtajakub/iPad_reservation_Claude_skill/blob/main/example-ipad-reservation.png?raw=true" />
 
 
 ## Vytvořil
